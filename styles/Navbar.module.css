@@ -6,7 +6,7 @@
   position: relative;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: black;
+  background-color: rgb(20, 20, 20);
 }
 
 .navbar ul {
@@ -33,7 +33,7 @@
   background: none;
   box-shadow: none;
   color: white;
-  font-family: "ESKlarheitGrotesk";
+  font-family: 'ESKlarheitGrotesk';
   border: none;
   font-size: 1em;
   cursor: pointer;
@@ -92,7 +92,7 @@
     font-size: 28px;
     padding: 0;
   }
-  
+
   /* Style navigation menu links */
   .navbar Link {
     color: white;
@@ -101,10 +101,10 @@
     font-size: 28px;
     display: block;
   }
-  
+
   /* Style the active link (or home/logo) */
   .active {
-    background-color: #04AA6D;
+    background-color: #04aa6d;
     color: white;
   }
 
