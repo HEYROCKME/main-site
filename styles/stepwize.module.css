@@ -1,2 +1,25 @@
+.stepwize__container {
+  /* border: solid salmon 5px; */
+  max-width: 300px;
 
+  font-family: 'ESKlarheitKurrent';
+  font-style: normal;
+  font-weight: 400;
+}
 
+.step__heading {
+  /* #Title */
+  /* background-color: aqua; */
+  border-bottom: white solid 2px;
+  font-size: 120px;
+  line-height: 110%;
+  /* or 132px */
+}
+
+.step__subheading {
+  font-size: 36px;
+}
+
+.step__description {
+  font-size: 20px;
+}
