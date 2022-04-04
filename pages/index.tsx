@@ -3,7 +3,7 @@ import Head from 'next/head'
 import { Layout } from '../components/main/layout'
 import styles from '../styles/Home.module.css'
 import { LayoutPage } from '../types'
-import { Stepwize } from '../components/main/stepwize'
+import { Stepwize } from '../components/stepwize/stepwize'
 
 const Home: LayoutPage = () => {
   return (
